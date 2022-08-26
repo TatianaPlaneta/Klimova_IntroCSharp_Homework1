@@ -10,5 +10,3 @@ Console.Write("День недели: ");
 int a = Convert.ToInt32(Console.ReadLine());
 if (a <= 5) Console.WriteLine("Это будний день.");
 else Console.WriteLine("Это выходной день.");
-
-//как исключить числа больше 8?
